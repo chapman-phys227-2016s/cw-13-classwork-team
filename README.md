@@ -1,6 +1,6 @@
 # PHYS227 CW 13
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** Taylor Patti, Andrew Malfavon, Chinmai Raman, Michael Seaman, Austin Akers
 
 **Due date:** 2016/05/17
 
@@ -12,7 +12,7 @@ With 1-2 partners, work through the slides.  It will have you create a new Jupyt
 
 ## Assessment
 
-_\<Analyze what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.\>_
+It was pretty cool. It would have been cooler if there had been the Julia kernal had worked in the notebooks, hahaha.
 
 ## Honor Pledge
 
@@ -23,4 +23,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name(s)\>_
+I can only speak for myself, but I am a mystery woman.
